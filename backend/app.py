@@ -40,7 +40,7 @@ DELHI_GEOJSON_URL = "https://raw.githubusercontent.com/shuklaneerajdev/IndiaStat
 # 2. It's best to set this as an environment variable for security
 #    Example: TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 #    For testing, you can hardcode it (but don't share it publicly!):
-TELEGRAM_BOT_TOKEN = "8535340198:AAEzi1iTWO8yJQcRhRexM_YNanybmbAUAdA"  # <-- ❗️ REPLACE THIS
+TELEGRAM_BOT_TOKEN = "AAECTJHc6o9Q2OVWhi-FIGIDyagosLtDdJo"  # <-- ❗️ REPLACE THIS
 
 def send_telegram_notification(bot_token, chat_id, message):
     """
