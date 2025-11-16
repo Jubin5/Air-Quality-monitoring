@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+pydeck
+plotly
+numpy
+Twilio
+geopandas
+tensorflow
+pykrige
+pyproj
+scikit-learn
+pydeck
+google-generativeai
